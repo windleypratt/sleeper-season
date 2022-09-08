@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sleeperdraft",
+  "private_key_id": "f7a5790d8798298302ef1b7d82391593131630b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnr3A54kLRGIUp\nrD2ZEgn8hkdsWc3uMOQ1anBl2kNfIDhpLE8VVfgSbe+UxEXT0Uj+Mwt1bMOebUkX\nmebN3XEeSQYWHDydsiAHF2UUo1HcGR/I/U910228XCyym0uM4K8U+J8bLaHJXklF\nCTNUw/bGk9XHqrPKo4CuhH+rX0fUGmzy+xZ+60JtNd8KyiBoQUxT8MCkDqJ7sSsH\n6UGMuUHLjvymUYdF/+drhtwsHSzCLgBa5JNJ+K81VTwfmgwENPhqYRoBW0A3ja0G\nNkox64zq9dsqctCmAiSiWYVHW7EPle7llqDdQd6YtKNFVp4m8CDcJVjqNxNXhoJ9\nCjaJAyIRAgMBAAECggEAImTP8zfclW/fbNVN+6hK5TsF5VbblE2bwzY+40/oinmd\nBjf2sYMmpY2+cEZG23AJNvta6x6vV5h/rkpBkjQac9WBWszsTri/um3Fqq+oGlV8\ne3jnT+WIN9szI3ycVZiRRTq3W/CFQQCHPgFkpmPFAau2o8J6mE13b/DphwZJAnp1\nc14+kwaQycHpVfKUCjQXo3tJZTo4mIm6nrH2EDzNFFS+zRC0ezu8jCekOBMKf2Gw\n9zc4OpUP6rMf0wf3QUq1hbqiaJQvNtLkr7hTQN9qjjZQrPyBs3oSB1Djlh1aAyJm\ngBuMl6p7tgFT6f5UnhztPgyzOSmIPxmS3ahbnIPx8QKBgQD7lMs5FCuYIKKtWWvz\n7/hnTFb3coCciwxRnUoO0lnD/BJJY1oU5uLXkJEQ6MopUCCCZycKh+j9uPa9RO0C\nTt1EizC63Fo5+//a66Z4UnSTMnZEd5WEWSDPOCpuOgi8fqvVxQT7ziD8DbaP7HJv\nfTkBWGyCfFH3xHZTgHVJIQUurQKBgQDrwS9QWG5c2ekT24YQjrM0I1Yw2oVsaNVk\njIYuRqAU7E32+FsNwH4Vg/bPdEk8ey2p7HkbxkOEVr2GS/WTWGfdHoU6TPU91PuV\n4h6zWDKnyqGqxIQGpmdBAxCsuITDPhin1gXMcbH93o/TbJ6lo5irZUDDikRS8mZ3\nDVZZB7KhdQKBgCPpYnT8XxixF+ecyx8gExpTuFpMGvW9l32S8T5aYnvqYIXfS72O\nE7Vnqn16bVkmWe2jYdxL+EM3gukTjK12qnkdUVBrIeoDAcuzNakZRBC69EzjsREa\nU+eggdYILLUTc93o6MQ08VppbrTusIsfmeKKR7r8mgq/HZDf1l4g+4dlAoGACT64\nJkRxf36kHz06kqel62N/W8cV+FxcEedY07O9T1S88fRnTbDAwQM9yIDc5lxGPCWj\n0i0CNMxZ/kw4QyDyYb9ypgiijVwuyX/miE3rHp1ZnaK7Mq+P2QLPwpYxzp4+xUYl\nUBEdU8FIjpfx2LkDoaUE1yYy67XJwt1pB3C/1okCgYEAx3xhLtbXz+7lWCrOrB+q\nGZeDq3MhUqu4Sk4AfZb+QBsum4haLc3ESfuMlKsWo/la83U2g7lckvV3iWyplXig\n3YC/LupzHADRAgX1fglHzWlQK9m+znPC8YKTLNOZhrAVVdUgH7vquFnHb3NViA4q\nx5OUdKeoNVmQbbOpoEbE/Ow=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sleeperspread@sleeperdraft.iam.gserviceaccount.com",
+  "client_id": "100295777831755015555",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sleeperspread%40sleeperdraft.iam.gserviceaccount.com"
+}
